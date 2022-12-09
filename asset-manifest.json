@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hamsu-dev/Resort-Website/static/css/main.f275c2e6.css",
+    "main.js": "/Hamsu-dev/Resort-Website/static/js/main.2bb2d5f1.js",
+    "static/media/Beach-Hero.jpg": "/Hamsu-dev/Resort-Website/static/media/Beach-Hero.839b327f24c9a5fc5bd8.jpg",
+    "index.html": "/Hamsu-dev/Resort-Website/index.html",
+    "main.f275c2e6.css.map": "/Hamsu-dev/Resort-Website/static/css/main.f275c2e6.css.map",
+    "main.2bb2d5f1.js.map": "/Hamsu-dev/Resort-Website/static/js/main.2bb2d5f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f275c2e6.css",
+    "static/js/main.2bb2d5f1.js"
+  ]
+}

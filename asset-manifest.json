@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/resort-website/static/css/main.9a93afa6.css",
-    "main.js": "/resort-website/static/js/main.f60fd8f2.js",
-    "index.html": "/resort-website/index.html",
-    "main.9a93afa6.css.map": "/resort-website/static/css/main.9a93afa6.css.map",
-    "main.f60fd8f2.js.map": "/resort-website/static/js/main.f60fd8f2.js.map"
+    "main.css": "/static/css/main.9a93afa6.css",
+    "main.js": "/static/js/main.f60fd8f2.js",
+    "index.html": "/index.html",
+    "main.9a93afa6.css.map": "/static/css/main.9a93afa6.css.map",
+    "main.f60fd8f2.js.map": "/static/js/main.f60fd8f2.js.map"
   },
   "entrypoints": [
     "static/css/main.9a93afa6.css",
